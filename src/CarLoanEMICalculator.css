@@ -1,0 +1,48 @@
+/* CarLoanEMICalculator.css */
+
+/* Set the background image */
+body {
+  background-image: url('https://img.freepik.com/premium-photo/sale-agent-deal-agreement-successful-car-loan-contract-with-customer-sign-agreement-contract_18497-1225.jpg'); /* Replace 'your-image-url.jpg' with the actual URL or path to your image */
+  background-size: cover; /*Adjust this property as needed */
+  background-repeat: no-repeat;
+  /* background-size: 102.5%; */
+  background-attachment: fixed; /* This will keep the background fixed while scrolling */
+  background-position: center;
+  
+}
+
+/* Styling for individual tables */
+.emi-schedule {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.8); /* Set a background color for the table to make text readable */
+}
+
+.emi-schedule h4 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+table, th, td {
+  border: 1px solid #ccc;
+}
+
+th, td {
+  padding: 10px;
+}
+
+th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
