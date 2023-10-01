@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CarLoanEMICalculator/static/css/main.f97b945b.css",
+    "main.js": "/CarLoanEMICalculator/static/js/main.0cffb9ce.js",
+    "static/js/787.7b63f85e.chunk.js": "/CarLoanEMICalculator/static/js/787.7b63f85e.chunk.js",
+    "index.html": "/CarLoanEMICalculator/index.html",
+    "main.f97b945b.css.map": "/CarLoanEMICalculator/static/css/main.f97b945b.css.map",
+    "main.0cffb9ce.js.map": "/CarLoanEMICalculator/static/js/main.0cffb9ce.js.map",
+    "787.7b63f85e.chunk.js.map": "/CarLoanEMICalculator/static/js/787.7b63f85e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f97b945b.css",
+    "static/js/main.0cffb9ce.js"
+  ]
+}
